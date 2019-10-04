@@ -1,4 +1,3 @@
 defmodule ExDocDash do
-	@moduledoc """
-	"""
+  @moduledoc false
 end
